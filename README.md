@@ -9,11 +9,11 @@ October's mission is to show the world that web development is not rocket scienc
 [![Build Status](https://travis-ci.org/octobercms/october.svg?branch=develop)](https://travis-ci.org/octobercms/october)
 [![License](https://poser.pugx.org/october/october/license.svg)](https://packagist.org/packages/october/october)
 
-## Installing October
+## Installing October.
 
 Instructions on how to install October can be found at the [installation guide](https://octobercms.com/docs/setup/installation).
 
-### Quick start installation
+### Quick start installation.
 
 For advanced users, run this in your terminal to install October from command line:
 
